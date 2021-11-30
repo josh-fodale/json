@@ -1,5 +1,9 @@
 {
-  "id": 1,
+  "badges": [
+    {
+      "id": 1,
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
